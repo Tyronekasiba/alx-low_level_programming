@@ -1,6 +1,6 @@
 /*
  * File: 9-strcpy.c
- * Author: TYrone
+ * Written by tyrone
  */
 
 #include "main.h"
